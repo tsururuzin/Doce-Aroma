@@ -29,7 +29,7 @@ header{
     text-decoration: none;
 }
 header button{
-    background-color: #5D3A27;
+    border: none;
 }
 
 .linha-separacao{
