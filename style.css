@@ -28,6 +28,9 @@ header{
     font-family:'Courier New', Courier, monospace ;
     text-decoration: none;
 }
+header button{
+    background-color: #5D3A27;
+}
 
 .linha-separacao{
     background: #5D3A27;
