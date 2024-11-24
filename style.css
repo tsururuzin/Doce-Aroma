@@ -40,3 +40,16 @@ header button{
     background: #5D3A27;
     padding-top: 0.3%;
 }
+.painel{
+    margin: auto;
+    background-color: white;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+}
+img{
+    width: 450px;
+    height: 650px;
+}
