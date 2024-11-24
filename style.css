@@ -29,7 +29,11 @@ header{
     text-decoration: none;
 }
 header button{
+    color: #f3dcc7;
+    border-radius: 10px;
     border: none;
+    padding: 07px;
+    text-decoration:none;
 }
 
 .linha-separacao{
