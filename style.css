@@ -42,15 +42,15 @@ header button{
 }
 .painel{
     margin: auto;
-    background-color: white;
     width: 650px;
     height: 800px;
-    padding: 10px;
+    padding: 30px;
     border-radius: 10px;
     text-align: center;
     border: none;
 }
 img{
+    padding: 30px;
     width: 500px;
     height: 707px;
 }
