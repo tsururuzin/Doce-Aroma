@@ -29,7 +29,7 @@ header{
     text-decoration: none;
 }
 header button{
-    color: #f3dcc7;
+    background: #f3dcc7;
     border-radius: 10px;
     border: none;
     padding: 07px;
