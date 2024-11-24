@@ -41,16 +41,12 @@ header button{
     padding-top: 0.3%;
 }
 .painel{
-    margin: auto;
-    width: 650px;
-    height: 800px;
-    padding: 30px;
-    border-radius: 10px;
-    text-align: center;
-    border: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
 }
 img{
     padding: 30px;
-    width: 500px;
-    height: 707px;
+    width: 350px;
+    height: 450px;
 }
