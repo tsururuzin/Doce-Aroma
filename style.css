@@ -31,7 +31,7 @@ header{
 header button{
     background: #f3dcc7;
     border-radius: 10px;
-    border: none;
+    border: 1px solid #5D3A27;
     padding: 07px;
     text-decoration:none;
 }
