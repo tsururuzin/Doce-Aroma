@@ -44,9 +44,13 @@ header button{
     display: flex;
     justify-content: space-around;
     align-items: stretch;
+    padding: 30px;
 }
 img{
     padding: 30px;
     width: 350px;
     height: 450px;
+}
+.cardapio-container{
+    background-color:#5D3A27;
 }
