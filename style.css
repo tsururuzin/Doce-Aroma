@@ -43,8 +43,9 @@ header button{
 .painel{
     margin: auto;
     background-color: white;
-    width: auto;
-    height: auto;
+    width: 650px;
+    height: 800px;
+    padding: 10px;
     border-radius: 10px;
     text-align: center;
     border: none;
