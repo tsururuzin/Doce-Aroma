@@ -51,3 +51,9 @@ img{
     width: 350px;
     height: 450px;
 }
+.fundo-cardapio{
+    background:#5D3A27;
+    display: grid;
+    justify-items: center;
+    align-items: start;
+}
