@@ -46,7 +46,7 @@ header button{
     align-items: stretch;
     padding: 30px;
 }
-img{
+.painel img{
     padding: 30px;
     width: 350px;
     height: 450px;
