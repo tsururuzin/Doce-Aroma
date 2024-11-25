@@ -56,3 +56,7 @@ img{
     justify-content: center;
     background-color:#5D3A27;
 }
+.painel-cardapio{
+    width: 250px;
+    height: 300px;
+}
