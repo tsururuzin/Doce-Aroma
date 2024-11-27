@@ -54,7 +54,6 @@ header button{
 .fundo-cardapio{
     background:#5D3A27;
     display: grid;
-    justify-items: center;
     align-items: start;
     justify-content: space-evenly;
 }
