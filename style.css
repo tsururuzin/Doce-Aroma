@@ -63,3 +63,9 @@ header button{
     width: 220px;
     height: 220px;
 }
+.cardapio{
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 200px;
+}
